@@ -1,4 +1,6 @@
-samplakei
-=========
+la samplakei
+============
 
-sampu nu sampla kelci
+noi sampu nu sampla kelci
+
+fi'i jbopre
